@@ -1,38 +1,40 @@
-Beyond the Battlefield – Issue No. 25
+Beyond the Battlefield
 
 About the Project
 
 Beyond the Battlefield is a blog-style website inspired by Mobile Legends: Bang Bang (MLBB). It features articles, insights, and discussions about the game, presented in a creative digital magazine layout.
+PAGE SECTIONS
+‎
+‎In this blog, you will find different sections that explain the game and its important aspects.
+‎
+‎HEADER AND NAVIGATION - The site name is "BEYOND THE BATTLEFIELD" with links to Intro, Hero Roles, Map Awareness, Teamwork, and Sources.
+‎
+‎INTRO - A short introduction to Mobile Legends: Bang Bang and what this blog is about.
+‎
+‎HERO ROLES - Explains the different hero roles, such as Tank, Fighter, Assassin, Mage, Marksman, and Support.
+‎
+‎MAP AWARENESS - Discusses the importance of understanding the map, checking enemy positions, and knowing when to take objectives.
+‎
+‎TEAMWORK - Explains why communication, cooperation, and proper team coordination are important in winning matches.
+‎
+‎ITEMS AND BATTLE SPELLS - Introduces equipment builds and battle spells and how they help heroes during matches.
+‎
+‎HEALTHY GAMING - Discusses responsible gaming and the importance of balancing gaming with school and daily activities.
+‎
+‎CONCLUSION - Shares the main message of the blog about learning, improving, and enjoying the game.
+‎
+‎FOOTER - Contains author information.
+‎
+‎BUILT WITH
+‎
+‎- HTML
+- Figma
+- CSS
+‎
+‎IMAGE CREDITS
+‎
 
-The website aims to share information and stories about MLBB through a clean, organized, and reader-friendly design.
-
-Features
-
-- Home Page – Introduces the website and its main topic.
-- Navigation Bar – Allows visitors to easily move between sections.
-- Introduction Essay – Presents the main introduction to the topic.
-- Articles – Contains discussions and information about Mobile Legends.
-- Images – Adds visual content to make the website more engaging.
-- Sources – Provides references for the information used.
-- Responsive Design – Designed to work on both desktop and mobile screens.
-
-Design Concept
-
-The website uses a newspaper-inspired design with a cream and beige background, dark brown typography, and organized layouts. Its design creates a simple editorial look while keeping the content easy to read.
-
-Technologies Used
-
-- HTML – For the website structure.
-- CSS – For styling, layout, and responsiveness.
-
-Purpose
-
-This project was created to apply basic web development and design skills while presenting information about Mobile Legends: Bang Bang in an engaging digital format.
-
+‎
 Project Author
 
-Created by: Hanz Mondres
-
-Repository
-
-GitHub: https://github.com/HanzMondres/beyondthebattlefield_blog
+Created by: Hanz Kurt Jonie B Mondres
